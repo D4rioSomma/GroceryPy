@@ -1,6 +1,6 @@
 # GroceryPy: shop smarter
 
-![GroceryPyLogo](https://github.com/d4riosomma/GroceryPy/blob/main/GroceryPyImage.png?raw=true)
+![GroceryPyImage](https://github.com/D4rioSomma/GroceryPy/assets/145290334/5cc7773c-35f2-48c1-8e14-89d826e1810a)
 
 ## In a nutshell in a nutshell
 
